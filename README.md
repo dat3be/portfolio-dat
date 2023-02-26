@@ -214,4 +214,3 @@ The easiest way is to click on [this link](https://www.canva.com/design/DAEi4hwD
 [Dirk Kotze](https://dirkrkotze.com/)
 
 [Iuliia Sutygina](https://juliasut.github.io/portfolio/)
-# portfolio-dat
