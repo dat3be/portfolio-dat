@@ -131,32 +131,32 @@ export const info = {
     // This is where your portfolio projects will be detailed
     {
       title: "Dự án số 1 - Thần Số Học",
-      live: "https://tailieugiangday.vn", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-      source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+      live: "https://thansohoc.lol", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+      source: "https://github.com/datnpq9181/NumerologyWebApp", // this should be a link to the **repository** of the project, where the code is hosted.
       image: mock1,
     },
     {
-      title: "Dự án số 2 - Lá Số Tử Vi",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "Dự án số 2 - Iu Truyện",
+      live: "https://iutruyen.com",
+      source: "https://github.com/datnpq9181",
       image: mock2,
     },
     {
-      title: "Dự án số  - Cung Hoàng Đạo",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "Dự án số 3 - TanManDamMy.Net",
+      live: "https://tanmandammy.net",
+      source: "https://github.com/datnpq9181",
       image: mock3,
     },
     {
-      title: "Dự án số 4 - Tarot Mỗi Ngày",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "Dự án số 4 - Đạt's Blog",
+      live: "https://blog.dat.pro.vn",
+      source: "https://github.com/datnpq9181",
       image: mock4,
     },
     {
-      title: "Dự án số 5 - Tinh Lâm Quán",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
+      title: "Dự án số 5 - BitCake.vn",
+      live: "https://bitcake.vn",
+      source: "https://datnpq9181.github.io/",
       image: mock5,
     },
   ],
