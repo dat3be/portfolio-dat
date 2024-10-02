@@ -25,7 +25,7 @@ export const info = {
   firstName: "Đạt",
   lastName: "Nguyễn",
   initials: "à há", // the example uses first and last, but feel free to use three or more if you like.
-  position: "Người Khởi Nghiệp mê Coding",
+  position: "Start-up guys kiêm Frontend Developer",
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
   baseColor: colors[0],
@@ -41,11 +41,11 @@ export const info = {
     },
     {
       emoji: "💼",
-      text: "Enterpreneur tại Patronus Jewelry",
+      text: "Enterpreneur tại Wedev.Mobi",
     },
     {
       emoji: "📧",
-      text: "dat@patronusjewelry.com",
+      text: "hi@wedev.mobi",
     },
   ],
   socials: [
@@ -60,7 +60,7 @@ export const info = {
       label: "instagram",
     },
     {
-      link: "https://github.com/datnpq9181",
+      link: "https://github.com/dat3be",
       icon: "fa fa-github",
       label: "github",
     },
