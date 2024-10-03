@@ -25,7 +25,7 @@ export const info = {
   firstName: "Đạt",
   lastName: "Nguyễn",
   initials: "à há", // the example uses first and last, but feel free to use three or more if you like.
-  position: "Start-up guys kiêm Frontend Developer",
+  position: "Tui biết mần Web, và máu khởi nghiệp",
   selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
   baseColor: colors[0],
@@ -113,7 +113,7 @@ export const info = {
       emoji: "📖",
     },
     {
-      label: "xem kịch (trừ kịch hài)",
+      label: "xem kịch (sân khấu)",
       emoji: "🎭",
     },
     {
@@ -121,7 +121,7 @@ export const info = {
       emoji: "🎥",
     },
     {
-      label: "nấu ăn (ngon)",
+      label: "nấu ăn (rèn tánh kiên nhẫn)",
       emoji: "🌶",
     },
     // Same as above, change the emojis to match / relate to your hobbies or interests.
@@ -138,25 +138,25 @@ export const info = {
     {
       title: "Dự án số 2 - Iu Truyện",
       live: "https://iutruyen.com",
-      source: "https://github.com/datnpq9181",
+      source: "https://github.com/dat3be",
       image: mock2,
     },
     {
       title: "Dự án số 3 - TanManDamMy.Net",
       live: "https://tanmandammy.net",
-      source: "https://github.com/datnpq9181",
+      source: "https://github.com/dat3be",
       image: mock3,
     },
     {
       title: "Dự án số 4 - Đạt's Blog",
       live: "https://blog.dat.pro.vn",
-      source: "https://github.com/datnpq9181",
+      source: "https://github.com/dat3be",
       image: mock4,
     },
     {
-      title: "Dự án số 5 - BitCake.vn",
-      live: "https://bitcake.vn",
-      source: "https://datnpq9181.github.io/",
+      title: "Dự án số 5 - 3BE.PRO",
+      live: "https://3be.pro",
+      source: "https://dat3be.github.io",
       image: mock5,
     },
   ],
